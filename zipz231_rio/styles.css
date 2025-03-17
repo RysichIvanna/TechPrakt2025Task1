@@ -22,3 +22,14 @@ body {
     height: auto;
     border-radius: 8px;
 }
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: #333;
+}
+
+p {
+    font-size: 1em;
+    color: #666;
+}
