@@ -16,3 +16,9 @@ body {
 .news-item {
     margin-bottom: 20px;
 }
+
+.news-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
